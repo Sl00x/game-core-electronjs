@@ -1,0 +1,16 @@
+{
+  "name": "gameelectron",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^12.0.2"
+  },
+  "dependencies": {},
+  "description": ""
+}
